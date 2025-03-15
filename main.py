@@ -11,7 +11,7 @@ Features:
 - Alien fleets that move and descend over time
 - Laser projectiles for attacking aliens
 - Increasing difficulty as the game progresses
-- Collision detection for shooting and alien movement
+- Collision detection for shooting and alien movement.
 
 This game is developed as a fun and interactive project using Python
 and Pygame, focusing on game mechanics, animations, and user interactions.
